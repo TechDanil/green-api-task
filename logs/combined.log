@@ -1,0 +1,9 @@
+{"level":"info","message":"M2 microservice is running on port 3001","timestamp":"2023-08-16T16:55:15.696Z"}
+{"level":"info","message":"M1 microservice is running on port 3000","timestamp":"2023-08-16T16:55:15.806Z"}
+{"level":"info","message":"Processing task","result":{"message":"Task processing initiated"},"taskId":2,"timestamp":"2023-08-16T16:56:26.307Z"}
+{"level":"info","message":"Task created","taskId":1,"timestamp":"2023-08-16T16:56:43.439Z"}
+{"level":"info","message":"M2 microservice is running on port 3001","timestamp":"2023-08-16T16:58:18.262Z"}
+{"level":"info","message":"M1 microservice is running on port 3000","timestamp":"2023-08-16T16:58:18.308Z"}
+{"level":"info","message":"M2 microservice is running on port 3001","timestamp":"2023-08-16T16:58:48.275Z"}
+{"level":"info","message":"M1 microservice is running on port 3000","timestamp":"2023-08-16T16:58:48.290Z"}
+{"level":"info","message":"Task created","taskId":1,"timestamp":"2023-08-16T16:58:51.028Z"}
